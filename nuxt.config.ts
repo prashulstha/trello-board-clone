@@ -2,6 +2,4 @@
 export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', '@vueuse/nuxt'],
   ssr: false,
-  target: 'static',
-  baseUrl: '/trello-board-clone/',
 });

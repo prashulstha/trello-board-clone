@@ -4,9 +4,11 @@ export default defineNuxtConfig({
   ssr: false,
   target: 'static',
   baseUrl: '/trello-board-clone/',
+  base: '/trello-board-clone/',
   runtimeConfig: {
     public: {
       baseURL: '/trello-board-clone',
+      base: '/trello-board-clone',
     },
   },
 });

@@ -18,7 +18,7 @@ Uses following tools:
 
 ## Dry Run
 
-<img src="~/assets/Trello Board Dry Run.gif" />
+![Dry Run GIF](https://github.com/prashulstha/trello-board-clone/blob/f6658bd2a74ae8ba19199063c99b7d26659e2f45/assets/Trello%20Board%20Dry%20Run.gif?raw=true)
 
 ## Setup
 

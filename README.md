@@ -16,6 +16,10 @@ Uses following tools:
 - TailwindCSS: Styling
 - VueUse: For storing at LocalStorage and Key Modifiers
 
+## Dry Run
+
+<img src="~/assets/Trello Board Dry Run.gif" />
+
 ## Setup
 
 Make sure to install the dependencies:
